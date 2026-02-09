@@ -12,3 +12,4 @@ cambio 2 minutos despues
 cambio desde git, 3:48 pm
 
 cambio desde el local.
+cambio desde el remoto
