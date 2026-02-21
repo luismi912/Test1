@@ -18,3 +18,9 @@ h2 {
 tr:nth-child(even) {
   background-color: black;
 }
+
+h2 {
+  background-color: aqua;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
